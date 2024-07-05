@@ -3,24 +3,12 @@
     name = "Home"
     url = "/"
     weight = 1
-
+    
 [[main]]
-    identifier = "about"
-    name = "About me"
-    url = "/about"
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
     weight = 2
-
-[[main]]
-    identifier = "categories"
-    name = "Categories"
-    url = "/categories"
-    weight = 3
-
-[[main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags"
-    weight = 4
 
     
 # Social Media Configuration
