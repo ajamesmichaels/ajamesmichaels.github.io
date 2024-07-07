@@ -925,6 +925,9 @@ video {
 .items-center {
   align-items: center;
 }
+.justify-start {
+  justify-content: flex-start;
+}
 .justify-end {
   justify-content: flex-end;
 }
@@ -957,6 +960,10 @@ video {
 }
 .stroke-2 {
   stroke-width: 2;
+}
+.px-1 {
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
 }
 .py-10 {
   padding-top: 2.5rem;
